@@ -1,12 +1,11 @@
 package main
 
-import (
-	logger "github.com/dattaray-basab/gologger" // Importing with alias 'logger'
-)
+import gologger "github.com/dattaray-basab/gologger"
+
 
 func main() {
-	// Now using the alias 'logger'
-	logger.LogInfo("This is an info message")
-	logger.LogWarning("This is a warning message")
-	logger.LogError("This is an error message")
+	// Using the default package name
+	gologger.LogInfo("This is an info message")
+	gologger.LogWarning("This is a warning message")
+	gologger.LogError("This is an error message")
 }
