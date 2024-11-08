@@ -9,7 +9,7 @@ func LogInfo(message string) {
 }
 
 func LogWarning(message string) {
-	log.Printf("WARN - %v", message)
+	log.Printf("WARNING - %v", message)
 }
 
 func LogError(message string) {
