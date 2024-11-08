@@ -2,3 +2,5 @@ github.com/dattaray-basab/gologger v1.0.2 h1:/ecoky+2z3ueFzWs0QJhWQFBXFZgisbnTY/
 github.com/dattaray-basab/gologger v1.0.2/go.mod h1:RkYvuqQO5URfTzGFXM27nJBpS8iA3HD1SQn7PWL33ys=
 github.com/dattaray-basab/gologger/producer v1.0.3 h1:YDKkxa1003sbPgWmLjRvkJCuIPLW2m4gP/bWMRGfsbg=
 github.com/dattaray-basab/gologger/producer v1.0.3/go.mod h1:4e/7XTlirE3hWApeFCQnyPZc5WCdvfT6K6lbXjH9PRk=
+github.com/dattaray-basab/gologger/producer/v2 v2.0.1 h1:RHNij2KVYpNA+J2xwodD/Q0hALZri+QdN0OIE/lNn4I=
+github.com/dattaray-basab/gologger/producer/v2 v2.0.1/go.mod h1:9fLRUILsvF/uMI5SxT10/Yd16U23tQYLlNaop1vPPac=
