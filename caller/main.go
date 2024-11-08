@@ -1,8 +1,7 @@
 package main
 
-import "github.com/dattaray-basab/gologger/producer"
-
-
+// import "github.com/dattaray-basab/gologger/producer/gologger/v2"
+import "github.com/dattaray-basab/gologger/producer/v2/gologger"
 
 
 func main() {
