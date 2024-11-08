@@ -1,4 +1,6 @@
-package logger
+// main.go
+
+package gologger
 
 import "log"
 
